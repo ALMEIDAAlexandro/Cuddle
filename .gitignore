@@ -1,0 +1,9 @@
+*.o
+*.csv
+*.txt
+*.log
+*.a
+main.c
+a.out
+testmain.c
+.qodo
